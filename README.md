@@ -5,7 +5,7 @@ Dans le cadre de ma 1ère année de BUT informatique, nous <i>(en binôme)</i> a
 ## Partie base de données
 - Création d'un diagramme UML afin de modéliser la BDD
 - [Création de la BDD](create_college2_db.sql) en suivant le diagramme et les retours des professeurs à son propos
-- [Peulplement de la BDD](populate_college2_db.sql) <i>(une version corrigée, pas exactement celle créée précédemment)</i> par un import de données à mettre en relations venant de plusieurs fichiers CSV (comme [celui ci](fr-en-etablissements.csv))
+- [Peulplement de la BDD](populate_college2_db.sql) <i>(une version corrigée, pas exactement celle créée précédemment)</i> par un import de données à mettre en relations venant de plusieurs fichiers CSV (comme [celui ci](fr-en-etablissements-ep.csv))
 
 ## Partie etude statistique
 - Recherche d'une problématique, qui fut la suivante : Est-il possible de prédire le nombre de filles qui passent le DNB par collège en fonction d’autres statistiques concernant le collège ?
